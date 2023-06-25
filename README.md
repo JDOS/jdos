@@ -4,10 +4,11 @@
 
 ### GitHub Stats: 
 
-![jdos Status](https://github-readme-stats.vercel.app/api?username=jdos&show_icons=true&theme=react)
+![JDOS's Status](https://github-readme-stats.vercel.app/api?username=jdos&show_icons=true&theme=react)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jdos&layout=donut&theme=react)](https://github.com/jdos/github-readme-stats)
 
+[![JDOS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdos)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
