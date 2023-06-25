@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div style="display: flex; align-items: flex-start;"><img src="ttps://www.debian.org/logos/openlogo-100.png" alt="icon" width="64" height="64" /></div>
