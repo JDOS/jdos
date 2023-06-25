@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 -->
 
 
-<div style="display: flex; align-items: flex-start;"><img src="https://www.debian.org/logos/openlogo-100.png" alt="icon" width="64" height="64" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://www.debian.org/logos/openlogo-100.png" alt="icon" " /></div>
