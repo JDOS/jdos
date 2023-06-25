@@ -2,7 +2,7 @@
 
 ### Tech Stack:
 
-[![My Skills](https://skills.thijs.gg/icons?i=linux,py,django,js,html,css,bootstrap,php,jquery,sqlite,postgres,mysql,ps,wordpress,docker,git,figma,laravel,matlab,octave,postman,vscode,arduino,bash,autocad,cs,cmake,eclipse,godot)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=linux,js,html,css,bootstrap,php,jquery,sqlite,postgres,mysql,ps,wordpress,docker,git,figma,laravel,matlab,octave,postman,vscode,arduino,bash,autocad,cs,cmake,eclipse,godot)](https://skills.thijs.gg)
 
 ### GitHub Stats: 
 
