@@ -1,5 +1,5 @@
 ### Tech Stack:
-
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="58" height="58" /></div>
 [![My Skills](https://skills.thijs.gg/icons?i=linux,py,django,js,html,css,bootstrap,php,jquery,sqlite,postgres,mysql,ps,wordpress,docker,git,figma,laravel,matlab,octave,postman,vscode,arduino,bash,autocad,cs,cmake,eclipse,godot)](https://skills.thijs.gg)
 
 ### GitHub Stats: 
