@@ -1,4 +1,4 @@
-### Hi there 👋
+### GitHub Stats: 
 
 ![jdos Status](https://github-readme-stats.vercel.app/api?username=jdos&show_icons=true&theme=react)
 
