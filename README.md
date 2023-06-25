@@ -6,7 +6,7 @@
 
 ![jdos Status](https://github-readme-stats.vercel.app/api?username=jdos&show_icons=true&theme=react)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jdos&layout=compact&theme=react)](https://github.com/jdos/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jdos&layout=donutt&theme=react)](https://github.com/jdos/github-readme-stats)
 
 
 
