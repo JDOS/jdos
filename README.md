@@ -1,4 +1,4 @@
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,php,c,py,jquery,docker,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,php,c,py,django,jquery,docker,git,figma,laravel,linux,matlab,octave,postgres,postman,sqlite,vscode,arduino)](https://skills.thijs.gg)
 
 ### GitHub Stats: 
 
