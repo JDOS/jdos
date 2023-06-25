@@ -1,3 +1,5 @@
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+
 ### GitHub Stats: 
 
 ![jdos Status](https://github-readme-stats.vercel.app/api?username=jdos&show_icons=true&theme=react)
