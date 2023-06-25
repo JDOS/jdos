@@ -1,4 +1,4 @@
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,php,c,phyton)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,php,c,py,jquery,docker,git)](https://skills.thijs.gg)
 
 ### GitHub Stats: 
 
