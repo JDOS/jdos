@@ -2,7 +2,7 @@
 
 ![jdos Status](https://github-readme-stats.vercel.app/api?username=jdos&show_icons=true&theme=transparent)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jdos&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jdos&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
