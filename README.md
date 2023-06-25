@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="58" height="58" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="64" height="64" /></div>
 
 ### Tech Stack:
 
