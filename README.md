@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="64" height="64" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="71" height="71" /></div>
 
 
 ### GitHub Stats: 
