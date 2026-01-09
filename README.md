@@ -1,14 +1,16 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="71" height="71" /></div>
 
+<!--
 ### GitHub Stats: 
 
 ![JDOS's Status](https://github-readme-stats.vercel.app/api?username=jdos&show_icons=true&theme=react)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jdos&layout=donut&theme=react)](https://github.com/jdos/github-readme-stats)
+-->
 
 ## 📚 Recursos
 - [Wiki Técnica](https://wiki.jdos.com.br) - Tutoriais sobre infraestrutura, desenvolvimento e IA
-- 
+
 <!--
 **JDOS/jdos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 
