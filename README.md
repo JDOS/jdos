@@ -1,4 +1,4 @@
-
+## 📚 Tools and Tech
 
 <div style="display: flex; align-items: flex-start;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="71" height="71" />
