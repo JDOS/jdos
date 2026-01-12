@@ -1,5 +1,4 @@
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="71" height="71" /></div>
 
 <div style="display: flex; align-items: flex-start;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="71" height="71" />
@@ -58,6 +57,9 @@
 </div>          
 
 <!--
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="71" height="71" /></div>
+
 ### GitHub Stats: 
 
 ![JDOS's Status](https://github-readme-stats.vercel.app/api?username=jdos&show_icons=true&theme=react)
